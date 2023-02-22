@@ -1,0 +1,1 @@
+You can pass in type arguments as well as function arguments to certain functions. 
