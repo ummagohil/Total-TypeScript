@@ -1,0 +1,1 @@
+Ensure a function always returns a type - this helps with errors. 
