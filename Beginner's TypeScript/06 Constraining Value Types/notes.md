@@ -25,3 +25,5 @@ export const defaultUser: User = {
 	role: "super-admin",
 };
 ```
+
+Know as **union types**.
