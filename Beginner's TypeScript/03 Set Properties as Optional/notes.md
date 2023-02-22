@@ -35,6 +35,8 @@ export const getName = (Params) => {
 };
 ```
 
+You could do the following but you would still need to pass something into `last`. 
+
 ```ts
 type Params = { first: string; last: string | undefined }
 
