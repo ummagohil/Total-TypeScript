@@ -1,0 +1,1 @@
+You need to check the number before the object and this is done via `typeof`, so then it knwos which branch of the union it's looking at.
