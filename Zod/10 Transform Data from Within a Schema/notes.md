@@ -1,0 +1,1 @@
+Transform takes something and adds something to it. Here it takes the name property and it splits it by space. 
