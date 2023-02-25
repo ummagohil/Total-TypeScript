@@ -1,0 +1,1 @@
+Use extend like in TypeScript interfaces.
